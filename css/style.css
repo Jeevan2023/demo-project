@@ -1,0 +1,371 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    
+}
+header{
+    padding: 20px 19px;
+    background-color: black;
+}
+.header{
+  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    
+
+
+}
+ul{
+    display: flex;
+    list-style-type: none;
+}
+ul li a{
+    padding: 20px;
+    text-decoration: none;
+    color: rgb(197, 173, 173);
+    font-size: 12px;
+    font-weight: 100;
+}
+.support-btn{
+    padding: 15px 30px;
+    background:black ;
+    color: white;
+    outline: none;
+    border:2px solid yellow;
+    font-weight: 700;
+    text-transform: uppercase;
+    border-radius: 50px;
+}
+.header p{
+    color: aliceblue;
+}
+.container h1{
+    font-family: 'Ribeye', cursive;
+    font-size: 85px;
+}
+.img{
+    border-radius: 142px;
+overflow: hidden;
+}
+main .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+
+    
+}
+.main-container{
+    padding: 1rem;
+    background-color: white;
+    color: black;
+    flex-basis: 95%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 3rem;
+}
+main{
+    background-color: black;
+    color: white;
+    padding: 2rem;
+}
+.up-child{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+    
+
+}
+.join{
+    background-color: red;
+    color: black;
+    padding: 2rem 6rem;
+    rotate: 270deg;
+    border-radius: 1rem;
+    white-space: nowrap;
+}
+.content h3{
+    padding: 1rem;
+}
+.lower-container{
+    display: block;
+}
+.left-box{
+    display: flex ;
+
+}
+.left-box{
+    gap: 2rem;
+    background-color: yellow;
+    color: black;
+    border-radius: 1rem;
+    flex-basis: 80%;
+    overflow: none;
+    align-items: center;
+    width: 40%;
+    justify-content: center;
+    width: 100%;
+    padding:1rem;
+
+}
+.left-sheet h4{
+    column-gap: 10rem;
+}
+.whole{
+    gap: 5rem;
+}
+.right-fashion h5{
+    font-size: 15px;
+    white-space: nowrap;
+}
+ .un h2{
+    column-gap: 4rem;
+    white-space: nowrap;
+ }
+ .middle-whole{
+    display: flex;
+ }
+}
+header{
+    padding: 20px 19px;
+    background-color: black;
+}
+.header{
+  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    
+
+
+}
+ul{
+    display: flex;
+    list-style-type: none;
+}
+ul li a{
+    padding: 20px;
+    text-decoration: none;
+    color: rgb(197, 173, 173);
+    font-size: 12px;
+    font-weight: 100;
+}
+.support-btn{
+    padding: 15px 30px;
+    background:black ;
+    color: white;
+    outline: none;
+    border:2px solid yellow;
+    font-weight: 700;
+    text-transform: uppercase;
+    border-radius: 50px;
+}
+.header p{
+    color: aliceblue;
+}
+.container h1{
+    font-family: 'Ribeye', cursive;
+    font-size: 85px;
+}
+.img{
+    border-radius: 142px;
+overflow: hidden;
+}
+main .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+.down-one{
+display: flex;
+}
+    
+}
+.main-container{
+    padding: 1rem;
+    background-color: white;
+    color: black;
+    flex-basis: 95%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 3rem;
+}
+main{
+    background-color: black;
+    color: white;
+    padding: 2rem;
+}
+.up-child{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+    
+
+}
+.join{
+    background-color: red;
+    color: black;
+    padding: 2rem 6rem;
+    rotate: 270deg;
+    border-radius: 1rem;
+    white-space: nowrap;
+}
+.content h3{
+    padding: 1rem;
+}
+.lower-container{
+    display: block;
+}
+.left-box{
+    display: flex ;
+}
+.left-box{
+    gap: 2rem;
+    background-color: yellow;
+    color: black;
+    border-radius: 1rem;
+    flex-basis: 80%;
+    overflow: none;
+    align-items: center;
+    width: 40%;
+    justify-content: center;
+    width: 30%;
+    padding:1rem;
+
+}
+.left-sheet h4{
+    column-gap: 10rem;
+}
+.whole{
+    gap: 5rem;
+}
+.right-fashion h5{
+    font-size: 15px;
+    white-space: nowrap;
+}
+ .un h2{
+    column-gap: 4rem;
+    white-space: nowrap;
+ }
+ .middle-whole{
+    display: flex;
+ }
+ .first-layer{
+    background-color: white;
+    color: black;
+    border-radius: 2rem;
+    border: 2px solid black;
+    width: 40%;
+
+}
+
+.first{
+    display: flex;
+    align-items: center;
+    gap: 8rem;
+    
+}
+.last{
+    
+    padding: 0px 12px;
+    background:white ;
+    color:black;
+    outline: none;
+    border:1px solid black;
+    font-weight: 300;
+    text-transform: uppercase;
+    border-radius: 50px;
+    font-size: 12px;
+   margin: 2rem;
+}
+.second-right h3{
+    font-size: 12px;
+    font-weight: 100;
+    
+}
+.second{
+    display: flex;
+    gap: 8rem;
+    align-items: center;
+}
+.two-left h1{
+
+    padding: 2rem;
+
+}
+.two-right{
+    font: size 7px; 
+    
+}
+.second-layer{
+    display: flex;
+    text-decoration-style: none;
+    gap: 5rem;
+      background-color:black;
+    color: white;
+    border-radius: 2rem;
+    border: 2px solid white;
+    align-items: center;
+    width: 40%;
+    
+
+
+}
+.sec-first{
+margin: 1rem;
+}
+.third-layer{
+    display: flex;
+    text-decoration-style: none;
+    gap: 4rem;
+      background-color: black;
+    color:white;
+    border-radius: 2rem;
+    border: 2px solid white;
+    align-items: center;
+    width: 40%;
+}
+.thir-layer h5{
+margin: 1rem;
+}
+.thir-third h5{
+
+  padding: 0px 12px;
+    background:rgb(94, 35, 196) ;
+    color:black;
+    outline: none;
+    border:1px solid black;
+    font-weight: 300;
+    text-transform: uppercase;
+    border-radius: 50px;
+    font-size: 12px;
+   margin: 2rem;
+   align-items: center;
+}
+.thir-first h5{
+    margin: 1rem;
+}
+
+
+.lower-container{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.down-one{
+    width: 100%;
+
+}
